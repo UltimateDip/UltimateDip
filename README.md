@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @UltimateDip
-- 👀 I’m interested in ISRO and going to Mars
 - 🌱 I’m currently learning whatever I can
 
 <!---
