@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @@UltimateDip
-- 🌱 I’m currently learning whatever I can
+- 👋 Hi, I’m @UltimateDip
+- 🌱 I love problem solving
 
 <!---
 UltimateDip/UltimateDip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
