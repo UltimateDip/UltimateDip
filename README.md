@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UltimateDip
+- 👋 Hi, I’m Dipankar
 - 🌱 I love problem solving
 
 <!---
